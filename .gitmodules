@@ -1,0 +1,3 @@
+[submodule "slbuilds/dwm"]
+	path = slbuilds/dwm
+	url = https://github.com/Inateblig/dwm
